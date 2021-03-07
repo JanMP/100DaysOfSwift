@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' buildActiveScheme='true'>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='true'>
     <pages>
         <page name='constants'/>
-        <page name='Untitled Page'/>
+        <page name='For In'/>
+        <page name='Arrays'/>
+        <page name='Sets'/>
+        <page name='Tuples'/>
+        <page name='Dictionaries'/>
+        <page name='Empty Collections'/>
+        <page name='Enumerations'/>
     </pages>
 </playground>

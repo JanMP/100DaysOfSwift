@@ -8,5 +8,5 @@ print(taylor)
 var zahl: Int = 3
 var kommaZahl: Double = 4
 
-var prima: Bool = kommaZahl
+var prima: Bool = true
 
