@@ -9,5 +9,9 @@
         <page name='Dictionaries'/>
         <page name='Empty Collections'/>
         <page name='Enumerations'/>
+        <page name='Arithmatic Operators'/>
+        <page name='Conditions'/>
+        <page name='Switch'/>
+        <page name='Range operators'/>
     </pages>
 </playground>
