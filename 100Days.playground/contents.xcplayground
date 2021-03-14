@@ -14,5 +14,7 @@
         <page name='Switch'/>
         <page name='Range operators'/>
         <page name='Loops'/>
+        <page name='functions'/>
+        <page name='throwing functions'/>
     </pages>
 </playground>
